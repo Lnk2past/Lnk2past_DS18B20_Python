@@ -1,0 +1,6 @@
+__title__ = 'Lnk2past_DS18B20'
+__description__ = 'Basic library for using a DS18B20 temperature sensor on a Raspberry Pi.'
+__url__ = 'https://github.com/Lnk2past/Lnk2past_DS18B20_Python'
+__version__ = '0.0.1-beta'
+__author__ = 'Lnk2past'
+__license__ = 'MIT'
